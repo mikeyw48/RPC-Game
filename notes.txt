@@ -1,0 +1,14 @@
+1. Implement functionality for double inputs - Have no two RPC throws be the same
+
+2. Add a win counter that counts when you win and then resets when you lose - Preferably with a fire emoji that is animated using figma
+
+3. Create a more modern look - Need to figure out how to do this
+
+4. Maybe add a highscore
+
+
+Added:
+
+Added a flashing notification that lets the user know the computer selected the same input, this will help with users understanding that the computer picked the same input 
+
+Added a counter that counts as well as updates with new text if you are on a streak
